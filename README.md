@@ -8,3 +8,4 @@ Este é um projeto feito EXCLUSIVAMENTE por mim de forma ORIGINAL, sem qualquer 
 - Os dados cadastrados permanecerão cadastrados desde que a página seja acessada com o mesmo navegador, no mesmo dispositivo.
 
 ## Visualize o projeto
+https://kleberjr.github.io/squadmaker/
