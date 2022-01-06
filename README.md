@@ -1,1 +1,1 @@
-# squadmaker
+# SquadMaker
