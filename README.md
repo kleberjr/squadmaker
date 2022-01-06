@@ -1,6 +1,6 @@
 # SquadMaker
 
-Este é um projeto feito EXCLUSIVAMENTE por mim de forma ORIGINAL, sem qualquer cópia de código de terceiros ou tutorial seguido.
+Este é um projeto feito EXCLUSIVAMENTE por mim de forma ORIGINAL, sem qualquer cópia de código de terceiros.
 
 > Utilza HTML5, CSS3 e JavaScript para implementar uma aplicação (completamente RESPONSIVA) do tipo CRUD com a utilização do banco de dados local do navegador. O objetivo da aplicação é cadastrar membros para seu squad no jogo de fps Valorant. 
 
