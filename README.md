@@ -2,7 +2,7 @@
 
 Este é um projeto feito EXCLUSIVAMENTE por mim de forma ORIGINAL, sem qualquer cópia de código de terceiros.
 
-> Utilza HTML5, CSS3 e JavaScript para implementar uma aplicação (completamente RESPONSIVA) do tipo CRUD com a utilização do banco de dados local do navegador. O objetivo da aplicação é cadastrar membros para seu squad no jogo de fps Valorant. 
+> Utilza HTML5, CSS3 e JavaScript para implementar uma aplicação (completamente RESPONSIVA) do tipo CRUD com a utilização do banco de dados local do navegador. O objetivo da aplicação é cadastrar membros para um squad no jogo de fps Valorant (ou qualquer outro que queira). 
 
 ## Algumas observações
 - Os dados cadastrados permanecerão cadastrados desde que a página seja acessada com o mesmo navegador, no mesmo dispositivo.
