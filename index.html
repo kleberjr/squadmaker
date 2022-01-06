@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SquadMaker</title>
+
+    <script src="https://kit.fontawesome.com/97078e6c91.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>SquadMaker</h1>
+    </header>
+
+    <main>
+        <div class="main-content">
+            <button id="new-player">+ Adicionar Player</button>
+
+            <div class="table-wrapper">
+                <table>
+                    <thead>
+                        <tr>
+                            <td></td>
+                            <td></td>
+                            <td>Nome</td>
+                            <td>Nickname</td>
+                            <td>Função</td>
+                            <td>Nível</td>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+
+    <div class="modal-overlay" id="modal">
+        <div class="modal-content">
+            <form id="form" data-action="add">
+                <input class="input-field" id="name" type="text" placeholder="Nome" required>
+                <input class="input-field" id="nickname" type="text" placeholder="Nickname" required>
+                <input class="input-field" id="role" type="text" placeholder="Função" required>
+                <!-- <input class="input-field" id="level" type="text" placeholder="Nível" required> -->
+                <select name="level" class="input-field" id="level" required>
+                    <option disabled selected></option>
+                    <option>Ferro</option>
+                    <option>Bronze</option>
+                    <option>Ouro</option>
+                    <option>Platina</option>
+                    <option>Diamante</option>
+                    <option>Imortal</option>
+                    <option>Radiante</option>
+                </select>
+                <button type="submit" id="save">Salvar</button>
+                <button type="button" id="cancel">Cancelar</button>
+            </form>
+        </div>
+    </div>
+
+    <footer>
+        <p>Criado por Kleber Rodrigues :)</p>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
