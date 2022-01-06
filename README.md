@@ -10,5 +10,5 @@ Este é um projeto feito EXCLUSIVAMENTE por mim de forma ORIGINAL, sem qualquer 
 ## Visualize o projeto
 https://kleberjr.github.io/squadmaker/
 
-<img align="center" alt="Preview1" width="80%" src="previews/preview_desktop.png">
+<img align="center" alt="Preview1" width="80%" src="previews/preview-desktop.png">
 <img align="center" alt="Preview2" width="30%" src="previews/preview_mobile.png">
