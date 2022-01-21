@@ -12,3 +12,10 @@ https://kleberjr.github.io/squadmaker/
 
 <img align="center" alt="Preview1" width="80%" src="previews/preview-desktop.png">
 <img align="center" alt="Preview2" width="30%" src="previews/preview_mobile.png">
+
+## Tecnologias utilizadas:
+- HTML5
+- CSS3
+- JavaScript
+- Git
+- Github
